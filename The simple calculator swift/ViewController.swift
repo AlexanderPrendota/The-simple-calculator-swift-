@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func action(sender: UIButton) {
-       
+       print("example commit")
         
     }
     
