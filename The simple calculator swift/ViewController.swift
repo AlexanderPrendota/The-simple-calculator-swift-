@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
     @IBAction func figures(sender: UIButton) {
         
-        //print("Digital is \(sender.tag)")
+        print("Digital is \(sender.tag)")
     }
 
     @IBAction func action(sender: UIButton) {
