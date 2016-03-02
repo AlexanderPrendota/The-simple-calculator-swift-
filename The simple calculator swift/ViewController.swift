@@ -7,7 +7,6 @@
 //
 
 import UIKit
-
 // the digital
 var x : Double = 0
 // the second digital
@@ -28,7 +27,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
      
     }
-
+    
     override func didReceiveMemoryWarning() {
       
         super.didReceiveMemoryWarning()
