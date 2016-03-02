@@ -108,16 +108,13 @@ class ViewController: UIViewController {
     }
     
     @IBAction func percent(sender: AnyObject) {
-        
         x = x / 100
         printCorrectString()
-        
     }
  
     @IBAction func deciminal(sender: AnyObject) {
-        
         if !point {
-            point = true
+        point = true
         }
     }
 }
